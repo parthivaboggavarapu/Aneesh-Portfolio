@@ -1,6 +1,6 @@
 Deployment link:
 
-Github link:
+Github link:https://github.com/parthivaboggavarapu/Aneesh-Portfolio
 
 
  Technologies Used:
