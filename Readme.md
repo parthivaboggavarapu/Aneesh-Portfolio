@@ -1,4 +1,4 @@
-Deployment link:
+Deployment link:https://parthivaboggavarapu.github.io/Aneesh-Portfolio/
 
 Github link:https://github.com/parthivaboggavarapu/Aneesh-Portfolio
 
